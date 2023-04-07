@@ -1,6 +1,6 @@
 # WALKING LUNCHES APP
 
-## Local Setup Instructions - assumes you have Expo installed on mobile device
+## Local Setup Instructions - assumes user has Expo installed on mobile device
 
 1. Inside desired directory: ```git clone https://github.com/omcmanus1/walking-lunch.git```
 2. ```cd walking-lunch```
